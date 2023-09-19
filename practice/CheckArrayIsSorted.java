@@ -1,5 +1,3 @@
-package practice.arrays;
-
 public class CheckArrayIsSorted {
 	public static void main(String[] args) {
 		int nums[] = { 10, 1, 2, 3, 4 };
