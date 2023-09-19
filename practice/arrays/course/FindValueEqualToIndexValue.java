@@ -1,5 +1,3 @@
-package practice.arrays;
-
 public class FindValueEqualToIndexValue {
 	public static void main(String[] args) {
 		int nums[] = { 15, 2, 45, 12, 7 };
