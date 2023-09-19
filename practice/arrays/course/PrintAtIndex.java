@@ -1,5 +1,3 @@
-package practice.arrays;
-
 public class PrintAtIndex {
 	public static void main(String[] args) {
 		/*
