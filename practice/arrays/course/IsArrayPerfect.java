@@ -1,4 +1,3 @@
-package practice.arrays;
 
 public class IsArrayPerfect {
 	public static void main(String[] args) {
