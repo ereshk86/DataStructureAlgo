@@ -1,5 +1,3 @@
-package practice.arrays;
-
 public class FindSumSeries {
 	public static void main(String[] args) {
 		int n = 10;
