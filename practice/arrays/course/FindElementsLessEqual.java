@@ -1,5 +1,3 @@
-package practice.arrays;
-
 public class FindElementsLessEqual {
 	public static void main(String[] args) {
 		int arrayA[] = {1, 2, 2, 2, 5, 7, 9};
