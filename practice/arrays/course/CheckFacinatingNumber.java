@@ -1,5 +1,3 @@
-package practice.arrays;
-
 public class CheckFacinatingNumber {
 	public static void main(String[] args) {
 		int input = 192;
