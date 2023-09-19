@@ -1,5 +1,3 @@
-package practice.arrays;
-
 import java.util.Arrays;
 
 public class FindFinalRemaining {
