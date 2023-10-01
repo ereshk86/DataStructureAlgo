@@ -1,5 +1,3 @@
-package practice.arrays.leetcode;
-
 public class RunningSumOfOneDArray {
 	public static void main(String[] args) {
 		int nums[] = { 1, 2, 3, 4 };
