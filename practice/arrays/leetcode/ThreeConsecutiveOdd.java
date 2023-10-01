@@ -1,5 +1,3 @@
-package practice.arrays.leetcode;
-
 public class ThreeConsecutiveOdd {
 	public static void main(String[] args) {
 		int arr[] = { 1, 2, 34, 3, 4, 5, 7, 23, 12 };
