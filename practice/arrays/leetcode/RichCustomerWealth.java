@@ -1,5 +1,3 @@
-package practice.arrays.leetcode;
-
 public class RichCustomerWealth {
 
 }
