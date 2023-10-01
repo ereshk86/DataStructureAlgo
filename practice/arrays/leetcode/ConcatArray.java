@@ -1,5 +1,3 @@
-package practice.arrays.leetcode;
-
 public class ConcatArray {
 	public static void main(String[] args) {
 		int nums[] = {1,2,1};
