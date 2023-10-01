@@ -1,5 +1,3 @@
-package practice.arrays.leetcode;
-
 public class FinalValueAfterOperations {
 	public static void main(String[] args) {
 		String ops[] = {"--X","X++","X++"};
