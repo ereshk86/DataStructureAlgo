@@ -1,5 +1,3 @@
-package practice.arrays.leetcode;
-
 import java.util.Arrays;
 
 public class MajorityElement {
