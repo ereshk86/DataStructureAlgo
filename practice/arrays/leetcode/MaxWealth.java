@@ -1,5 +1,3 @@
-package practice.arrays.leetcode;
-
 public class MaxWealth {
 	public static void main(String[] args) {
 		int nums[][] = { { 1, 2, 3 }, { 3, 4 }, { 4, 2, 3 } };
