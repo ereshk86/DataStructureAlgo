@@ -7,13 +7,18 @@ public class ThreeConsecutiveOdd {
 	}
 
 	private static boolean threeConsecutiveOdds(int[] arr) {
-		boolean result = false;
-
-		for (int i = 0; i < arr.length - 2; i++) {
-			if ((arr[i] % 2 != 0) && (arr[i + 1] % 2 != 0) && (arr[i + 2] % 2 != 0)) {
-				result = true;
-			}
-		}
-		return result;
+			int count = 0;
+	        for(int i:arr){
+	            if(i%2 == 1) {
+	                count++;
+	                if(count == 3){
+	                    return true;
+	                }
+	            }
+	            else{
+	                count = 0;
+	            }
+	        }
+	        return false;
 	}
 }
