@@ -1,5 +1,3 @@
-package practice.arrays.leetcode;
-
 public class ShuffleArray {
 	
 	public static void main(String[] args) {
