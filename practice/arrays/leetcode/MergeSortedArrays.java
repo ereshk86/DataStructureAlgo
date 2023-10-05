@@ -1,5 +1,3 @@
-package practice.arrays.leetcode;
-
 public class MergeSortedArrays {
 	public static void main(String[] args) {
 		int nums1[] = { 1, 2, 3, 0, 0, 0 };
