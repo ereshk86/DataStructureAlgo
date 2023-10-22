@@ -1,4 +1,3 @@
-package practice.arrays.leetcode;
 
 import java.util.HashMap;
 
