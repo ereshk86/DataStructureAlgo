@@ -1,6 +1,4 @@
 //https://leetcode.com/problems/next-greater-element-iii/description/
-package practice.arrays.leetcode;
-
 public class NextGreaterElementIII {
 
 	public static void main(String[] args) {
