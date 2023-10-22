@@ -1,4 +1,3 @@
-package practice.arrays.leetcode;
 
 public class BinarySubArrayWithSum {
 	public static void main(String[] args) {
