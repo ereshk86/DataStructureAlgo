@@ -1,5 +1,4 @@
 //https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1
-package practice.stack;
 
 import java.util.Stack;
 
