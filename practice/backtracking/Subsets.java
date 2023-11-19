@@ -1,5 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/subsets-1613027340/1?utm_source=youtube&utm_medium=collab_fraz_websitelink&utm_campaign=subsets
-package practice.backtracking;
+//https://walkccc.me/LeetCode/problems/0078/
 
 import java.util.ArrayList;
 import java.util.List;
